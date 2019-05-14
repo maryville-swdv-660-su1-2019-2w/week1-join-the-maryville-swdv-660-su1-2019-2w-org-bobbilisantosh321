@@ -1,4 +1,3 @@
-# Random name generator with color code
 # SWDV 660 Week 1: Random name generator with color code
 
 The program generates the funny random names. Names starting with Vowels will be printed in RED and others will be printed in GREEN
