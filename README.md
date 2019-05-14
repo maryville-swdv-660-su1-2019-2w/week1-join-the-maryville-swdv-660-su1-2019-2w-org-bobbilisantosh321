@@ -1,10 +1,10 @@
 # IPFinder
 # SWDV 660 Week 1: IP Address Finder
 
-The program gets the IP address of your system
+The program generates the funny random names. Names starting with Vowels will be printed in RED and others will be printed in GREEN
 
 1. [Colorama](https://pypi.org/project/colorama/) - It provides shortcuts to help generate ANSI color sequences
-2. [requests](https://pypi.org/project/requests/) - Requests allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor. 
+2. [requests](https://pypi.org/project/random_name/) - A simple library for generating random names, similar to the docker random name generator. 
 
-Unix executable version of this program is here: [IPFinder](https://github.com/maryville-swdv-660-su1-2019-2w/week1-join-the-maryville-swdv-660-su1-2019-2w-org-bobbilisantosh321/blob/master/dist/IPFinder)
+
 
